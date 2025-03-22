@@ -1,4 +1,4 @@
-import pytest
+import test
 
 from test_book_collector import BooksCollector
 @pytest.fixture

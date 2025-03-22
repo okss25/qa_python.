@@ -1,4 +1,4 @@
-import pytest
+import test
 class TestBooksCollector:
 
     def test_add_new_book_add_two_books(self, collector):
